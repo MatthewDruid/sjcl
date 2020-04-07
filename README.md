@@ -32,3 +32,8 @@ Upgrade Guide
 Documentation
 ====
 The documentation is available [here](http://bitwiseshiftleft.github.io/sjcl/doc/)
+
+Configure
+===
+./configure --with-{aes,bitArray,codecString,codecHex,codecBase32,codecBase64,codecBytes,codecZ85,sha256,sha512,sha1,ccm,ctr,cbc,gcm,hmac,pbkdf2,scrypt,random,convenience,bn,ecc,srp,ccmArrayBuffer,codecArrayBuffer,ripemd160}
+
